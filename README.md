@@ -1,0 +1,4 @@
+- `XM-PRO Lite - Connection and Deployment.pdf`: It provides further information about the multi-monitor, multi-arcade and multi-player setups possible with an XM-PRO Lite motherboard.
+- `GRAPHICAL RESOURCES` folder: Create your custom setups and diagrams using our GRAPHICAL RESOURCE files in that folder.
+- `PCB ENCLOSURE PLATES` folder: Open-Source PCB enclosure plates files for the XM, XM-PRO Lite and XM-PRO motherboards.
+- `3D PRINTING ENCLOSURE PARTS` folder: Open-Source 3D printable parts for the XM, XM-PRO Lite and XM-PRO motherboards.
